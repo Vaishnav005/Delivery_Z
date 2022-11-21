@@ -173,3 +173,92 @@ h3{
     display: inline;
     padding: 1%;
 }
+
+
+/* css for mobile version */
+
+@media only screen and (max-width:768px){
+    .logo{
+        width: 80%;
+        float: none;
+        margin-left: 8%;
+    }
+
+    .menu ul{
+        text-align: center;
+    }
+
+    .food-search input[type="search"]{
+        width: 90%;
+        padding: 2%;
+        margin-bottom: 5%;
+    }
+
+    .btn{
+        width: 90%;
+        padding: 2%;
+    }
+
+    .box-3{
+        width: 90%;
+        margin-left: 6%;
+    }
+
+    .food-search{
+        padding: 10%;
+    }
+
+    .categories{
+        padding: 10%;
+    }
+
+    h2{
+        margin-bottom: 10%;
+    }
+
+    .float-text{
+        bottom: 250px;
+    }
+
+    .food-menu{
+        padding: 5% 0;
+    }
+
+    .food-menu-box{
+        width: 90%;
+        padding: 5%;
+        margin-bottom: 5%;
+    }
+
+    .social{
+        padding: 5%;
+    }
+}
+
+/* css for mobile version */
+
+/* css for banner */
+
+.banner{
+    border: 1px solid black;
+}
+
+.container1{
+    width: 90%;
+    height: 250px;
+    margin-left: 5%;
+    background-image: url(../images/6.jpg);
+    background-size: 100% 100%;
+    animation: slider 15s infinite normal;
+    
+    
+}
+
+@keyframes slider{
+    0%{background-image: url(../images/6.jpg);}
+    35%{background-image: url(../images/7.jpg);}
+    75%{background-image: url(../images/8.jpg);}
+}
+
+
+/* css for banner */

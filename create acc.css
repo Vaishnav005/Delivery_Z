@@ -1,0 +1,37 @@
+.Signup{
+    text-align: center;
+    background-image: url(../Images/MicrosoftTeams-image\ \(8\).png);
+    background-size: cover;
+}
+.head{
+    color: white;
+}
+.hed{
+    color: white;
+    
+}
+.hd{
+    margin-left: 2%;
+}
+.he{
+    margin-left: 2.4%;
+}
+.hf{
+    margin-left: 4%;
+}
+.hg{
+    margin-left: 2.9%;
+}
+.hi{
+    margin-left: 3.3%;
+}
+.hh{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    padding: 0.5%;
+}
+.hh:hover{
+    background-color: green;
+    color: black;
+}
