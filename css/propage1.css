@@ -1,65 +1,20 @@
-.p1main{
+.pbg {
+    background-color: rgb(22, 202, 22);
     width: 100%;
-    height: 100%;
+    height: 2500%;
+    border: 2px solid black;
+    
+    
+    
 }
 
 .line{
     width: 90%;
     height: 0.1px;
     border: 3px solid rgb(71, 71, 71);
+    
 }
 
-
-.p2bg {
-    background-color: rgb(22, 202, 22);
-    width: 100%;
-    height: 500%;
-    bottom: 10%;
-    padding-bottom: 10%;
-}
-
-h2 {
-    color: black;
-    margin-top: -2800px;
-    margin-left: 46px;
-    font-size: xx-large;
-}
-
-.div1 {
-    width: 200px;
-    height: 235px;
-    background-color: white;
-    margin-left: 83px;
-    margin-top: 30px;
-    border-radius: 10px;
-}
-
-.div2{
-    width: 200px;
-    height: 235px;
-    background-color: white;
-    margin-left: 370px;
-    margin-top: -235px;
-    border-radius: 10px;
-}
-
-.div3 {
-    width: 200px;
-    height: 235px;
-    background-color: white;
-    margin-left: 650px;
-    margin-top: -235px;
-    border-radius: 10px;
-}
-
-.div4 {
-    width: 200px;
-    height: 235px;
-    background-color: white;
-    margin-left: 924px;
-    margin-top: -235px;
-    border-radius: 10px;
-}
 
 .b1 {
     margin-left: 34px;
@@ -77,7 +32,12 @@ h3{
 }
 
 .h3{
-    margin-top: -12px;
+    margin-top: -19px;
+    margin-left: 36px;
+}
+.sh3{
+    margin-top: -19px;
+    margin-left: 9px;
 }
 
 .add {
@@ -98,238 +58,280 @@ h3{
     cursor: pointer;
 }
 
-.div5 {
+.Gtag{
+    margin-top: -8px;
+    margin-left: 10px;
+}
+.Rtag{
+    margin-top: -8px;
+    margin-left: 10px;
+}
+
+
+
+/*  Biriyani starts here */
+
+.h21 {
+    
+    color: black;
+    margin-top: -13997px;
+    margin-left: 46px;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.div11 {
     width: 200px;
-    height: 235px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.div21{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div31{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 650px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div41 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 924px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+
+
+.div51 {
+    width: 200px;
+    height: 255px;
     background-color: white;
     margin-left: 83px;
     margin-top: 50px;
     border-radius: 10px;
 }
 
-.div6 {
+.div61 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 370px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
-.div7 {
+.div71 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 650px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
-.div8 {
+.div81 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 924px;
-    margin-top: -235px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div91 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.div101 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div111 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 650px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div121 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 924px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div131 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 50px;
     border-radius: 10px;
 }
 
 
-/*  chicken starts here  */
 
-.p2main{
-    width: 100%;
-    height: 100%;
-    margin-top: 195px;
-}
-
-.line{
-    width: 99.5%;
-    height: 0.1px;
-    border: 3px solid rgb(71, 71, 71);
-}
+/* Biriyani ends here */
 
 
-.p2bg {
-    background-color: rgb(22, 202, 22);
-    width: 100%;
-    height: 150%;
-    bottom: 10%;
-    padding-bottom: 10%;
-}
 
-h2 {
+/* Chicken starts here */
+
+
+.h22 {
     color: black;
-    margin-top: -920px;
+    margin-top: 111px;
     margin-left: 46px;
     font-weight: bold;
+    font-size: xx-large;
 }
 
 .div12 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
-    margin-left: 33px;
+    margin-left: 83px;
     margin-top: 30px;
     border-radius: 10px;
 }
 
 .div22{
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
-    margin-left: 320px;
-    margin-top: -235px;
+    margin-left: 370px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div32 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
-    margin-left: 600px;
-    margin-top: -235px;
+    margin-left: 650px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div42 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
-    margin-left: 874px;
-    margin-top: -235px;
+    margin-left: 924px;
+    margin-top: -255px;
     border-radius: 10px;
-}
-
-.b1 {
-    margin-left: 34px;
-    margin-top: 24px;
-    border-radius: 10px;
-}
-h3{
-    margin-left: 10px;
-}
-
-.h3{
-    margin-top: -12px;
-}
-
-.add {
-    width: 46px;
-    height: 25px;
-    background-color: black;
-    margin-left: 118px;
-    margin-top: -42px;
-    color: white;
 }
 
 .div52 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
-    margin-left: 33px;
+    margin-left: 83px;
     margin-top: 50px;
     border-radius: 10px;
 }
 
 .div62 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
-    margin-left: 320px;
-    margin-top: -235px;
+    margin-left: 370px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div72{
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
-    margin-left: 600px;
-    margin-top: -235px;
+    margin-left: 650px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div82 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
-    margin-left: 874px;
-    margin-top: -235px;
+    margin-left: 924px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div92 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
-    margin-left: 175px;
+    margin-left: 225px;
     margin-top: 50px;
     border-radius: 10px;
 }
 
 .div102 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
-    margin-left: 463px;
-    margin-top: -235px;
+    margin-left: 513px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div112 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
-    margin-left: 745px;
-    margin-top: -235px;
+    margin-left: 795px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
-.p2container{
-    width: 90%;
-    height: 150%;
-    margin-left: 50px;
-}
 
+/* Chicken ends here */
 
-
-
-/*  chicken ends here  */
 
 /* Pizza starts here */
 
-.p4main{
-    width: 100%;
-    height: 100%;
-    margin-top: 335px;
-}
-
-.line{
-    width: 90%;
-    height: 0.1px;
-    border: 3px solid rgb(71, 71, 71);
-}
-
-
-.p2bg {
-    background-color: rgb(22, 202, 22);
-    width: 100%;
-    height: 500%;
-    bottom: 10%;
-    padding-bottom: 10%;
-}
-
-h2 {
+.h24 {
     color: black;
-    margin-top: -2800px;
+    margin-top: 111px;
     margin-left: 46px;
+    font-weight: bold;
     font-size: xx-large;
 }
 
 .div14 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 83px;
     margin-top: 30px;
@@ -338,71 +340,34 @@ h2 {
 
 .div24{
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 370px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div34 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 650px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div44 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 924px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
-}
-
-.b1 {
-    margin-left: 34px;
-    margin-top: 24px;
-    border-radius: 10px;
-}
-
-.b1:hover{
-    transform: scale(1.3);
-    transition: 1s;
-}
-
-h3{
-    margin-left: 10px;
-}
-
-.h3{
-    margin-top: -12px;
-}
-
-.add {
-    width: 46px;
-    height: 25px;
-    background-color: black;
-    margin-left: 118px;
-    margin-top: -42px;
-    color: white;
-    border: none;
-    font-weight: bolder;
-    border-radius: 20px;
-}
-
-.add:hover{
-    background-color: rgb(22, 202, 22);
-    color: black;
-    cursor: pointer;
 }
 
 .div54 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 83px;
     margin-top: 50px;
@@ -411,40 +376,65 @@ h3{
 
 .div64 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 370px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div74 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 650px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div84 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 924px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
+.div94 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
 
-/* pizza ends here */
+.div104 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+/* Pizza ends here */
 
 
 /* burger starts here */
 
+.h25 {
+    color: black;
+    margin-top: 111px;
+    margin-left: 46px;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
 .div15 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 83px;
     margin-top: 30px;
@@ -453,34 +443,34 @@ h3{
 
 .div25{
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 370px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div35{
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 650px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div45 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 924px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div55 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 83px;
     margin-top: 50px;
@@ -489,39 +479,46 @@ h3{
 
 .div65 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 370px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div75 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 650px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div85 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 924px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 /* burger ends here */
 
+/* FriedRice starts here */
 
-/* Friedrice starts here */
+.h26 {
+    color: black;
+    margin-top: 111px;
+    margin-left: 46px;
+    font-weight: bold;
+    font-size: xx-large;
+}
 
 .div16 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 83px;
     margin-top: 30px;
@@ -530,34 +527,34 @@ h3{
 
 .div26{
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 370px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div36{
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 650px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div46 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 924px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div56 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 83px;
     margin-top: 50px;
@@ -566,28 +563,28 @@ h3{
 
 .div66 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 370px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div76 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 650px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div86 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 924px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
@@ -598,7 +595,7 @@ h3{
 
 .div17 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 83px;
     margin-top: 30px;
@@ -607,34 +604,34 @@ h3{
 
 .div27{
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 370px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div37{
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 650px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div47 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 924px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div57 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 83px;
     margin-top: 50px;
@@ -643,29 +640,324 @@ h3{
 
 .div67 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 370px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div77 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 650px;
-    margin-top: -235px;
+    margin-top: -255px;
     border-radius: 10px;
 }
 
 .div87 {
     width: 200px;
-    height: 235px;
+    height: 255px;
     background-color: white;
     margin-left: 924px;
-    margin-top: -235px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div97 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 50px;
     border-radius: 10px;
 }
 
 /* Biscuits ends here */
+
+
+
+/*  Bread rolls starts here */
+
+.div18 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.div28{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div38{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 650px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div48 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 924px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div58 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.div68 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div78 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 650px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div88 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 924px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div98 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.div108{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+/* Bread rolls ends here */
+
+
+/*  Cake starts here */
+
+.div19 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.div29{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div39{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 650px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div49 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 924px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div59 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.div69 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div79 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 650px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div89 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 924px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div99 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.div109{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+/* Cake ends here */
+
+
+/*  Chocolates starts here */
+
+.div110 {
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.div210{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div310{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 650px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div410{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 924px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div510{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.div610{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div710{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 650px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div810{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 924px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+.div910{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 83px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.div1010{
+    width: 200px;
+    height: 255px;
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -255px;
+    border-radius: 10px;
+}
+
+/* Chocolates ends here */
